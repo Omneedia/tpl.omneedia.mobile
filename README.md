@@ -1,6 +1,6 @@
-# tpl.omneedia.webapp
+# tpl.omneedia.mobile
 
-## tpl.omneedia.webapp
+## tpl.omneedia.mobile
 
 Package description goes here
 
