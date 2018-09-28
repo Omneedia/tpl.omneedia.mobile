@@ -1,0 +1,36 @@
+.BackgroundSystem {
+    background-image: url(webapp/defaultdesktop.png);
+}
+
+.qxAboutLogo {
+    background-image: url(webapp/logo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 128px 128px;
+    width: 128px;
+    height: 128px;
+}
+
+.qxIcon {
+    background-image: url(webapp/ico.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 16px 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.mnu_preferences {
+    background-image: url(webapp/Preferences.png);
+}
+
+.OACardIcon {
+    background-image: url(webapp/ico.png);
+    width: 16px;
+    height: 16px;
+    display: inline;
+    float: left;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
